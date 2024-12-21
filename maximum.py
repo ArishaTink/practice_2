@@ -6,4 +6,4 @@ for i in range(1,count):
     string = input("Введите строку (Для выхода нажмите enter) ")
     string_array.append(string)
 
-print(max(string_array))
+print(min(string_array))
